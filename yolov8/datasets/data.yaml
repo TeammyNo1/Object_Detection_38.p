@@ -1,0 +1,13 @@
+train: D:/yolov8/datasets/train/images
+val: D:/yolov8/datasets/valid/images
+
+
+nc: 1
+names: ['P38']
+
+roboflow:
+  workspace: thanabodee-sawatdee
+  project: project_p38
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/thanabodee-sawatdee/project_p38/dataset/1

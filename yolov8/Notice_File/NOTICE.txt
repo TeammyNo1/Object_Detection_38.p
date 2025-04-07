@@ -1,0 +1,10 @@
+YOLOv8 - Ultralytics
+Copyright (c) Ultralytics, 2023. All rights reserved.
+
+This software includes YOLOv8 (https://github.com/ultralytics/ultralytics),
+which is licensed under the Apache License, Version 2.0 
+(http://www.apache.org/licenses/LICENSE-2.0).
+
+This software may also include components developed by third parties under 
+various open-source licenses. All trademarks and copyrights remain the 
+property of their respective owners.
